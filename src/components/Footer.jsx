@@ -1,11 +1,11 @@
-import iphone13 from '../assets/images/iphone13.png';
-import iphone13pro1 from '../assets/images/iphone13pro1.png';
-import iphone13pro2 from '../assets/images/iphone13pro2.png';
-import iphone13pro3 from '../assets/images/iphone13pro.png';
-import hbr from '../assets/images/brands/hbr.png';
-import bloomberg from '../assets/images/brands/bloomberg.png';
-import huffpost from '../assets/images/brands/hp.png';
-import tc from '../assets/images/brands/techcrunch.png';
+import iphone13 from '../../src/assets/images/iphone13.png';
+import iphone13pro1 from '../../src/assets/images/iphone13pro1.png';
+import iphone13pro2 from '../../src/assets/images/iphone13pro2.png';
+import iphone13pro3 from '../../src/assets/images/iphone13pro.png';
+import hbr from '../../src/assets/images/brands/hbr.png';
+import bloomberg from '../../src/assets/images/brands/bloomberg.png';
+import huffpost from '../../src/assets/images/brands/hp.png';
+import tc from '../../src/assets/images/brands/techcrunch.png';
 import { motion } from 'framer-motion';
 
 
