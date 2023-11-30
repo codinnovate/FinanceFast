@@ -1,0 +1,33 @@
+@import url('https://fonts.googleapis.com/css2?family=Kulim+Park:wght@200;400&display=swap');
+
+
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@font-face {
+  font-family:Grifter;
+  src: url('./assets/fonts/grifterbold.otf');
+  font-weight: bold;
+}
+
+
+h2, p , a {
+font-family: 'Kulim Park', sans-serif;
+}
+
+a:hover{
+  cursor: pointer;
+}
+.text-grifter {
+    font-family: Grifter;
+
+}
+
+.text-gradient{
+background:  linear-gradient(180deg, #6364FF 64.58%, #563ACC 100%);
+background-clip: text;
+-webkit-background-clip: text;
+-webkit-text-fill-color: transparent;
+font-family: 'Grifter';
+}
