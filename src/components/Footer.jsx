@@ -8,6 +8,8 @@ import huffpost from '../assets/images/brands/hp.png';
 import tc from '../assets/images/brands/techcrunch.png';
 import { motion } from 'framer-motion';
 
+
+
 export const Footer = () => {
   return (
       <div className='mt-[148px] w-full relative'>
